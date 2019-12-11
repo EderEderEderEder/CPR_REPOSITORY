@@ -1,0 +1,15 @@
+git init = initialisiert ein neues git repository
+git config = email und user name in den main Einstellungen einstellen#
+git clone = ein reporitory in einem bestimmten Ordener klonen
+git add = files zum online-repository hinzufügen
+git commit = übergibt Änderungen mit einer selbst definierbaren Nachricht
+git rm = löscht files vom directory
+git remote = zeigt an welche files man och nicht geaddet hat
+git push/pull = pusht oder pullt Änderungen nach dem adden und commiten
+git status = zeigt den Status der geänderten files an
+git diff =  zeigt änderungen am working tree an 
+git reset = setzt den letzten commit zu dem commit mit welchem man arbeiten möchte
+git log = 
+git branch = zeit alle branches(Zweige) in einer Liste an 
+git checkout = updatetet files in einem working tree 
+git merge = führt working trees zusammen
